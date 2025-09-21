@@ -1,0 +1,5 @@
+Handle Invalid User Input:
+    - Non-numeric input
+    - User logs in zero
+    - No input
+    - long numbers
