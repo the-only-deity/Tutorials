@@ -1,1 +1,32 @@
+🔥 That’s the spirit! Okay, let’s raise the bar a little higher. This won’t just test your string skills — it’ll start stretching your thinking towards data structures and algorithms.
 
+🚀 Challenge 3 (Advanced): Super Word Analyzer
+
+Task:
+Ask the user to input a paragraph of text (not just one sentence). Then:
+
+✅ Word count: Count the total number of words.
+
+✅ Character count: Count total characters (ignore spaces/punctuation).
+
+Most frequent word(s): Find the most common word(s).
+
+Unique words: Count how many unique words are in the text.
+
+Word frequency distribution: Display a list of words and how many times each occurs.
+
+Bonus (optional, but strongly encouraged):
+
+✅ Normalize input: make everything lowercase and strip punctuation before analyzing.
+
+Sort the word frequency list by frequency (highest to lowest).
+
+Find the longest word and the shortest word.
+
+Handle edge cases:
+
+Empty input
+
+Input with only numbers/symbols
+
+Very large input
